@@ -3,7 +3,7 @@ networks:
     driver: bridge
 services:
   traefik:
-    image: traefik:2.11.3
+    image: traefik:3.1.0
     restart: always
     container_name: reverse_proxy_traefik
     ports:
