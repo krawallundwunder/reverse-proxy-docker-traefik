@@ -3,7 +3,7 @@
 
 This is a resuseable traefik config for usage on a virtual server or for local debelopment using docker-compose.   
 It uses:
- - Traefik 2
+ - Traefik 3
  - docker-compose
  - Let's encrypt
 
